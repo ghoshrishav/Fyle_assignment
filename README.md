@@ -5,7 +5,7 @@
 ### 1. Clone the repository into your local machine using:
 
 ```
-git clone https://github.com/ghoshrishav/fyle-assignment.git
+git clone https://github.com/ghoshrishav/Fyle_assignment.git
 ```
    
 ### 2. For running the application on your local machine, please ensure that you have docker installed.
@@ -22,7 +22,7 @@ docker-compose up
 ### 1. Clone the repository into your local machine using:
 
 ```
-git clone https://github.com/ghoshrishav/fyle-assignment.git
+git clone https://github.com/ghoshrishav/Fyle_assignment.git
 ```
 
 ### 2. Install all recurements(run in fyle-assignment folder):
